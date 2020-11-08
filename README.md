@@ -30,3 +30,11 @@
 |:---:|---|
 |취미|컴퓨터|
 |특기|컴퓨터|
+
+
+## __참고 사이트__
+
+[잡코리아](https://www.jobkorea.co.kr/goodjob/docs/form) - 양식 예제
+
+
+[markdown-it demo](https://markdown-it.github.io/#fnref2) - 마크다운 예제
